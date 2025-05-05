@@ -1,0 +1,18 @@
+ecommand: [
+  "python", 
+  "app.py"
+]
+
+env:
+  - name: "SERVING_ENDPOINT"
+    valueFrom: "SERVING_ENDPOINT"
+  - name: "default_catalog"
+    value: "your_catalog_name"
+  - name: "default_schema"
+    value: "your_schema_name"
+  - name: "default_volume"
+    value: "your_volume_name"
+  - name: "default_file"
+    value: "btree.c"
+  - name: "DATABRICKS_HOST"
+    value: "https://your-databricks-host.cloud.databricks.com/"

@@ -129,3 +129,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Solution specific
+.databricks
+.env
+.envrc
+.venv
+.vscode
+__pycache__/
