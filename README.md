@@ -4,13 +4,11 @@
 [![CLOUD](https://img.shields.io/badge/CLOUD-CHANGE_ME-blue?logo=googlecloud&style=for-the-badge)](https://databricks.com/try-databricks)
 
 ## Business Problem
-WHAT IS THE BUSINESS PROBLEM ADDRESSED BY THIS SOLUTION
-
-## Reference Architecture
-IMAGE TO REFERENCE ARCHITECTURE
+While there’s a lot of freely available, world class software to explore in open source, it’s challenging to grasp a codebase if you’re not familiar with the programming language at hand. A lot of manufacturers, for example, rely on complex webs of C code, and database software also tends to be written in languages that are difficult to ramp up on quickly such as Rust or C. In this repo we maintain sample code for a Databricks App to explore the C code of SQLite, a database that’s deployed on over a trillion devices! 
 
 ## Authors
-<john.doe@databricks.com>
+<josh.melton@databricks.com>
+<tyler.frankenberg@databricks.com>
 
 ## Project support 
 
