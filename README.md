@@ -20,5 +20,14 @@ Any issues discovered through the use of this project should be filed as GitHub 
 
 &copy; 2024 Databricks, Inc. All rights reserved. The source in this notebook is provided subject to the Databricks License [https://databricks.com/db-license-source].  All included or referenced third party libraries are subject to the licenses set forth below.
 
-| library                                | description             | license    | source                                              |
+| library                            | description             | license    | source                                              |
 |----------------------------------------|-------------------------|------------|-----------------------------------------------------|
+dash |	| MIT license |	 https://pypi.org/project/dash/ |
+dash-bootstrap-components | |	Apache Software license | 	https://pypi.org/project/dash-bootstrap-components/ |
+networkx	|  | BSD License |	https://pypi.org/project/networkx/ |
+matplotlib |  |	Python Software Foundation License |	https://pypi.org/project/matplotlib/ |
+dash-cytoscape |  |	MIT License	 | https://pypi.org/project/dash-cytoscape/ |
+PyGithub	|  | GNU Library or Lesser General Public License (LGPL)	| https://pypi.org/project/PyGithub/ |
+chromadb	|  | Apache Software License	| https://pypi.org/project/chromadb/ |
+sentence-transformers	|  | Apache Software License (Apache 2.0) |	https://pypi.org/project/sentence-transformers/ |
+pandas	|  | BSD License | 	https://pypi.org/project/pandas/ |
