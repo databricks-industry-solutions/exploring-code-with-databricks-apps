@@ -22,12 +22,12 @@ Any issues discovered through the use of this project should be filed as GitHub 
 
 | library                            | description             | license    | source                                              |
 |----------------------------------------|-------------------------|------------|-----------------------------------------------------|
-dash |	| MIT license |	 https://pypi.org/project/dash/ |
-dash-bootstrap-components | |	Apache Software license | 	https://pypi.org/project/dash-bootstrap-components/ |
-networkx	|  | BSD License |	https://pypi.org/project/networkx/ |
-matplotlib |  |	Python Software Foundation License |	https://pypi.org/project/matplotlib/ |
-dash-cytoscape |  |	MIT License	 | https://pypi.org/project/dash-cytoscape/ |
-PyGithub	|  | GNU Library or Lesser General Public License (LGPL)	| https://pypi.org/project/PyGithub/ |
-chromadb	|  | Apache Software License	| https://pypi.org/project/chromadb/ |
-sentence-transformers	|  | Apache Software License (Apache 2.0) |	https://pypi.org/project/sentence-transformers/ |
-pandas	|  | BSD License | 	https://pypi.org/project/pandas/ |
+dash | A Python framework for building reactive web applications, especially suited for machine learning and data science dashboards, with interactive UI components.	| MIT license |	 https://pypi.org/project/dash/ |
+dash-bootstrap-components | A library of Bootstrap-themed components for use with Plotly Dash, enabling the creation of consistently styled, responsive Dash apps with complex layouts. |	Apache Software license | 	https://pypi.org/project/dash-bootstrap-components/ |
+networkx	|  A Python package for the creation, manipulation, and analysis of complex networks and graphs, supporting study of their structure and dynamics. | BSD License |	https://pypi.org/project/networkx/ |
+matplotlib |  A comprehensive library for creating static, animated, and interactive visualizations in Python, widely used for plotting and data visualization tasks. |	Python Software Foundation License |	https://pypi.org/project/matplotlib/ |
+dash-cytoscape | A Dash component library for building interactive and customizable network visualizations in Python, wrapping the Cytoscape.js library. |	MIT License	 | https://pypi.org/project/dash-cytoscape/ |
+PyGithub	| A Python library for accessing and managing GitHub resources via the GitHub API v3, including repositories, users, and organizations. | GNU Library or Lesser General Public License (LGPL)	| https://pypi.org/project/PyGithub/ |
+chromadb	|  An open-source embedding database designed for building Python or JavaScript LLM applications with memory, enabling fast storage and retrieval of vector embeddings. | Apache Software License	| https://pypi.org/project/chromadb/ |
+sentence-transformers	|  A Python library for state-of-the-art sentence, text, and image embeddings, supporting easy use and training of transformer-based models for semantic similarity. | Apache Software License (Apache 2.0) |	https://pypi.org/project/sentence-transformers/ |
+pandas	| A powerful Python library for data analysis and manipulation, offering data structures and functions for cleaning, exploring, and transforming datasets. | BSD License | 	https://pypi.org/project/pandas/ |
