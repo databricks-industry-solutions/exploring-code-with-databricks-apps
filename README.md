@@ -1,8 +1,5 @@
 <img src=https://raw.githubusercontent.com/databricks-industry-solutions/.github/main/profile/solacc_logo.png width="600px">
 
-[![DBR](https://img.shields.io/badge/DBR-CHANGE_ME-red?logo=databricks&style=for-the-badge)](https://docs.databricks.com/release-notes/runtime/CHANGE_ME.html)
-[![CLOUD](https://img.shields.io/badge/CLOUD-CHANGE_ME-blue?logo=googlecloud&style=for-the-badge)](https://databricks.com/try-databricks)
-
 ## Business Problem
 While there’s a lot of freely available, world class software to explore in open source, it’s challenging to grasp a codebase if you’re not familiar with the programming language at hand. A lot of manufacturers, for example, rely on complex webs of C code, and database software also tends to be written in languages that are difficult to ramp up on quickly such as Rust or C. In this repo we maintain sample code for a Databricks App to explore the C code of SQLite, a database that’s deployed on over a trillion devices! 
 
